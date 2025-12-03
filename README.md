@@ -28,3 +28,6 @@ OpenRouter API
 Requests (HTTP client)
 
 Perfect for beginners exploring AI chatbot development, OpenRouter APIs, or building AGI-inspired conversational assistants.
+
+
+https://github.com/user-attachments/assets/c7b9db7c-c751-404a-8e97-ae73bbf1d44c
